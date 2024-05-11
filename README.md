@@ -6,12 +6,9 @@ Merhaba ben Tuğba Nur CAN,
 ---
 
 
-
-
 ### Stats <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tugbanurcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Tugbanurcan&show_icons=true&theme=tokyonight" alt="Tugbanurcan" /></p><br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tugbanurcan&theme=neon&border_radius=15&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br><br><br>
