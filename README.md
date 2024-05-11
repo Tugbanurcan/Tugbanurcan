@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Merhaba ben Tuğba Nur CAN,
+Bilgisayar Mühendisliği ikinci sınıf öğrencisiyim.
   
 
 ---
