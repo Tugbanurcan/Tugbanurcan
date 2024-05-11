@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Merhaba ben Tuğba Nur CAN,
+Merhaba ben Tuğba Nur CAN,<br>
 Bilgisayar Mühendisliği ikinci sınıf öğrencisiyim.
   
 
