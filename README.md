@@ -20,7 +20,7 @@ Bilgisayar Mühendisliği ikinci sınıf öğrencisiyim.
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-000000?style=for-the-badge&logo=Tryhackme&logoColor=whit)](https://tryhackme.com/p/TubaNurCan) 
 [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whit)](https://www.github.com/Tugbanurcan)
 [![Outlook](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Gmail&logoColor=whit)](mailto:tugba.n.can@gmail.com)
-[![HacerRank](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=HacerRank&logoColor=whit)](https://www.hackerrank.com/dashboard)
+[![HacerRank](https://img.shields.io/badge/HacerRank-000000?style=for-the-badge&logo=HacerRank&logoColor=whit)](https://www.hackerrank.com/dashboard)
 
 
 
