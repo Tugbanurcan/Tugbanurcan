@@ -16,20 +16,6 @@ Bilgisayar Mühendisliği öğrencisiyim...
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tugbanurcan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="En Çok Kullanılan Diller" />
 </p>
 
-### 🛠️ My Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tugbanurcan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" alt="Tugba'nın En Çok Kullandığı Diller" />
-</p>
-
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tugbanurcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
