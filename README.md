@@ -13,6 +13,11 @@ Bilgisayar Mühendisliği öğrencisiyim...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tugbanurcan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tugbanurcan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" alt="Tugba'nın En Çok Kullandığı Diller" />
+</p>
+
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tugbanurcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Tugbanurcan&show_icons=true&theme=tokyonight" alt="Tugbanurcan" /></p><br>
